@@ -17,11 +17,11 @@
         <number_ref display_value="NI">ed923ea4dbb40300379e788dbf96195a</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">e2a8f286b900030092c0f528b97ebde5</super_class>
+        <super_class display_value="Task" name="task">e311f1a57131030092c0e10d8a5376b0</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-22 11:18:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bef032a4dbb40300379e788dbf9619bd</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Needit</sys_name>

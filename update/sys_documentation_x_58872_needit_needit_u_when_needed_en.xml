@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-08-30 08:41:46</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>288b1347db300300379e788dbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>When needed</sys_name>
